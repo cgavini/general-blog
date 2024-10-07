@@ -1,2 +1,2 @@
 # general-blog
-General Blog
+Chinmoy Gavini's blog on general topics
