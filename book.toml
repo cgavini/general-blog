@@ -1,0 +1,6 @@
+[book]
+authors = ["Chinmoy Gavini"]
+language = "en"
+multilingual = false
+src = "src"
+title = "General Blog"
